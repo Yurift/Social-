@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+  background-color: #3185FC;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    font-size: 14px;
+    background-color: white;
+    padding: 20px;
+    margin: 40px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px black;
+}
+
+#foto {
+  width: 250px;
+  display: inline;
+  float: left;
+  margin: 10px 30px 10px 10px;
+}
+
+h1 {
+  text-align: center;
+  color: #2A2E45;
+}
+
+#antes {
+  color: #f4442e;
+  margin: 40px 1px 10px 10px;
+}
+
+#contrate {
+  text-align: justify;
+}
+
+a {
+  margin: 5px;
+}
+
